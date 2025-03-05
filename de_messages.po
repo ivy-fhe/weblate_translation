@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-27 14:15+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: @lingui/cli\n"
+
+#. js-lingui-explicit-id
+#: app/routes/workspaces/overview.tsx:48
+msgid "info"
+msgstr ""
+
+#. js-lingui-explicit-id
+#: app/routes/workspaces/overview.tsx:83
+msgid "title"
+msgstr ""
+
+#~ msgid "items"
+#~ msgstr "{count, plural, one {You have # item} other {You have # items}}"
+
+#. js-lingui-explicit-id
+#: app/routes/workspaces/overview.tsx:88
+msgid "title_2"
+msgstr ""
