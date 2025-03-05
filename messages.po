@@ -28,3 +28,9 @@ msgstr "Welcome to {neo}: Manage your workspaces"
 #~ msgid "items"
 #~ msgstr "{count, plural, one {You have # item} other {You have # items}}"
 
+#. js-lingui-explicit-id
+#: app/routes/workspaces/overview.tsx:88
+msgid "title_2"
+msgstr ""
+
+
