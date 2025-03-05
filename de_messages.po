@@ -3,25 +3,26 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-27 14:15+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-03-05 14:17+0000\n"
+"Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
+"Language-Team: German <http://weblate.example.com/projects/demo2/demorepo/de/"
+">\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: @lingui/cli\n"
+"X-Generator: Weblate 5.10.2\n"
 
 #. js-lingui-explicit-id
 #: app/routes/workspaces/overview.tsx:48
 msgid "info"
-msgstr ""
+msgstr "info deutsch"
 
 #. js-lingui-explicit-id
 #: app/routes/workspaces/overview.tsx:83
 msgid "title"
-msgstr ""
+msgstr "title deutsch"
 
 #~ msgid "items"
 #~ msgstr "{count, plural, one {You have # item} other {You have # items}}"
@@ -29,4 +30,4 @@ msgstr ""
 #. js-lingui-explicit-id
 #: app/routes/workspaces/overview.tsx:88
 msgid "title_2"
-msgstr ""
+msgstr "titel 2 deutsch"
